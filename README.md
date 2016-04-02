@@ -2,7 +2,7 @@
 
 The purpose of this project was to demonstrate collecting, working with, and cleaning a data set. 
 
-##Information on the data used for this demonstration can be found at the link below
+Information on the data used for this demonstration can be found at the link below
 
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
