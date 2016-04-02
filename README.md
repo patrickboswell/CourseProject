@@ -25,8 +25,8 @@ Reads the following files and assign approriate column labels
 - x_test.txt
 - y_test.txt
 
-## Section 2. Extract only the measurements on the mean and standard deviation for each measurement. 
-Create a vector that contains the columns that meet the conditions for mean and standard deviation.
+## Section 2. Extract only the mean and standard deviation for each measurement. 
+Create a vector that contains the columns names that meet the conditions for mean and standard deviation.
 x_test data and x_train data tables are transformed to only contain desired columns.
 All tables are then merged into a single data set including descriptive activity names.
 
