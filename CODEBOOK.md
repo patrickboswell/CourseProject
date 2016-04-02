@@ -1,9 +1,9 @@
 #CODE BOOK - tidydata
 
-###subjectid - The experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 years.
+subjectid - The experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 years.
   1 - 30 
  
-##activitytype - Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist.
+activitytype - Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist.
   Laying - activityid = 6
   Sitting - activityid = 4
   Standing - activityid = 5
@@ -11,7 +11,7 @@
   Walking_Downstairs - activityid = 2
   Walking_Upstairs - activityid = 3 
 
-##measures - These signals were used to estimate variables of the feature vector for each pattern: '-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
+measures - These signals were used to estimate variables of the feature vector for each pattern: '-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
   tBodyAcc-XYZ
   tGravityAcc-XYZ
   tBodyAccJerk-XYZ
